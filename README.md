@@ -1,7 +1,7 @@
 Chicago Crime Data Analysis
 
 Project Overview
-This project aims to analyze crime data in Chicago to identify patterns, trends, and hotspots, supporting strategic decision-making for law enforcement. By leveraging historical and recent crime data, we aim to provide actionable insights to improve resource allocation, reduce crime rates, and enhance public safety in Chicago.
+"This project aims to analyze crime data in Chicago to identify patterns, trends, and hotspots, supporting strategic decision-making for law enforcement. By leveraging historical and recent crime data, we aim to provide actionable insights to improve resource allocation, reduce crime rates, and enhance public safety in Chicago".
 
 Dataset Description
 The dataset contains records of reported crimes in Chicago, including:
